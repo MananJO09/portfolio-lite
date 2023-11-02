@@ -1,0 +1,10 @@
+
+.navbar {
+    background-color: black;
+    color: wheat;
+    text-align: center;
+}
+
+.navbar a{
+    color: tomato;
+}
